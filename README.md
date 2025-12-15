@@ -16,3 +16,8 @@
 - [Q developer CLI became Kiro CLI](https://kiro.dev/docs/cli/)
 - [Kiro hooks](https://kiro.dev/docs/hooks/)
 - [Kiro Powers](https://kiro.dev/docs/powers/)
+- [Managing Amazon Q Developer Profiles and Customizations in Large Organizations](https://aws.amazon.com/blogs/devops/managing-amazon-q-developer-profiles-and-customizations-in-large-organizations/)
+- [Q developer pricing](https://aws.amazon.com/q/developer/pricing/)
+- [Quotas and limits for Q developer](docs.aws.amazon.com/general/latest/gr/amazonqdev.html)
+- [Context options for Q developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/ide-chat-context.html)
+
