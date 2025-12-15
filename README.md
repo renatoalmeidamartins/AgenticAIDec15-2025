@@ -35,3 +35,7 @@ Please go to [https://www.aws.training/account/transcript/Archived](https://www.
 - [Bedrock Agentcore agentcore starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
 - [Bedrock Agentcore CLI](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-get-started-toolkit.html)
 - [Agent 2 agent protocol](https://a2a-protocol.org/latest/)
+- [Frontier agents](https://aws.amazon.com/ai/frontier-agents/)
+- [AWS DevOps agent, a new kind of "frontier agent"](https://aws.amazon.com/blogs/aws/aws-devops-agent-helps-you-accelerate-incident-response-and-improve-system-reliability-preview/)
+- [Security agent, another example of a frontier agent](https://aws.amazon.com/blogs/aws/new-aws-security-agent-secures-applications-proactively-from-design-to-deployment-preview/)
+- [IAM policy autopilot, a good example of agents into play, looking at code to create required policies to run the code](https://aws.amazon.com/blogs/security/iam-policy-autopilot-an-open-source-tool-that-brings-iam-policy-expertise-to-builders-and-ai-coding-assistants/)
