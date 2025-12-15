@@ -20,4 +20,5 @@
 - [Q developer pricing](https://aws.amazon.com/q/developer/pricing/)
 - [Quotas and limits for Q developer](docs.aws.amazon.com/general/latest/gr/amazonqdev.html)
 - [Context options for Q developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/ide-chat-context.html)
-
+- [Quick start for Crew AI - its main focus is on multi-agents, with clearly defined roles](https://docs.crewai.com/en/quickstart)
+- [Langchain's list of chat models and "capabilities" supported](https://docs.langchain.com/oss/python/integrations/chat)
