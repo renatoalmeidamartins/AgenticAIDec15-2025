@@ -13,3 +13,4 @@
 - [MCP - Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [Repo with MCP server](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
 - [Repo with Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples?tab=readme-ov-file)
+- [Q developer CLI became Kiro CLI](https://kiro.dev/docs/cli/)
