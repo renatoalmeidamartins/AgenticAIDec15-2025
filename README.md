@@ -28,3 +28,4 @@
 - [Nova Act](https://aws.amazon.com/blogs/aws/accelerate-ai-agent-development-with-the-nova-act-ide-extension/)
 - [Bedrock Agentcore agentcore starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
 - [Bedrock Agentcore CLI](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-get-started-toolkit.html)
+- [Agent 2 agent protocol](https://a2a-protocol.org/latest/)
