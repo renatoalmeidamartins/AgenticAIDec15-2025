@@ -12,3 +12,4 @@
 - [Advanced prompt engineering, highlighting the COSTAR framework](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
 - [MCP - Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [Repo with MCP server](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
+- [Repo with Bedrock flow samples](https://github.com/aws-samples/amazon-bedrock-flows-samples?tab=readme-ov-file)
